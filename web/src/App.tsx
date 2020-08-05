@@ -1,4 +1,5 @@
 import React from 'react';
+import './assets/styles/global.css'
 
 function App() {
   return (
@@ -6,6 +7,9 @@ function App() {
       <h1>
         Hello World
       </h1>
+      <button>
+        clica em mim
+      </button>
     </div>
   );
 }
